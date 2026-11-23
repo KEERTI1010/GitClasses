@@ -1,0 +1,1 @@
+physics = Printf("Phy Marks : 34");
